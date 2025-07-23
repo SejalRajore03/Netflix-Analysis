@@ -1,7 +1,7 @@
 # Netflix-Analysis
 
 Netflix Analysis Dashboard.....
-I am excited to share my latest project analyzing Netflix App!🌟
+I am excited to share my project analyzing Netflix App!🌟
 
 ## 🔍 Insights:
 
